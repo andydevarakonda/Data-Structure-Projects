@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CardSort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.Stack\ makeDeck()
+comment3.params=deck
+comment3.target=java.util.ArrayList\ sortSuits(java.util.Stack)
+numComments=4

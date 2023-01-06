@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CardShuffle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.ArrayList\ makeDeck()
+comment3.params=deck
+comment3.target=void\ shuffle(java.util.ArrayList)
+comment4.params=deck\ numHands\ numCards
+comment4.target=java.util.ArrayList[]\ deal(java.util.ArrayList,\ int,\ int)
+numComments=5

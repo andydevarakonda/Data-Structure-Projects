@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PQNode
+comment1.params=name\ problem\ priority
+comment1.target=PQNode(java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getProblem()
+comment4.params=
+comment4.target=int\ getPriority()
+comment5.params=priority
+comment5.target=void\ setPriority(int)
+comment6.params=
+comment6.target=PQNode\ getPrevious()
+comment7.params=previous
+comment7.target=void\ setPrevious(PQNode)
+comment8.params=
+comment8.target=PQNode\ getNext()
+comment9.params=next
+comment9.target=void\ setNext(PQNode)
+numComments=11

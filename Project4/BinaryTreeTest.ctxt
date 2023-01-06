@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BinaryTreeTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=root
+comment2.target=void\ printOutput(BinaryTree)
+comment3.params=
+comment3.target=BinaryTree\ testTree1()
+comment4.params=
+comment4.target=BinaryTree\ testTree2()
+comment5.params=
+comment5.target=BinaryTree\ testTree3()
+numComments=6

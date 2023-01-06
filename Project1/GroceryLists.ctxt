@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GroceryLists
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GroceryLists\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=aList\ bList\ cList
+comment2.target=void\ addGroceries(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=aList\ bList\ cList
+comment3.target=java.util.ArrayList\ combineLists(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=list\ name
+comment4.target=void\ deleteByName(java.util.ArrayList,\ java.lang.String)
+comment5.params=list
+comment5.target=void\ printList(java.util.ArrayList)
+comment6.params=list\ category
+comment6.target=java.util.ArrayList\ findCategory(java.util.ArrayList,\ java.lang.String)
+comment7.params=list
+comment7.target=int\ countUnique(java.util.ArrayList)
+numComments=8

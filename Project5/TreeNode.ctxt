@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TreeNode
+comment1.params=newData
+comment1.target=TreeNode(int)
+comment2.params=
+comment2.target=int\ getData()
+comment3.params=
+comment3.target=TreeNode\ getLeft()
+comment4.params=
+comment4.target=TreeNode\ getRight()
+numComments=5
